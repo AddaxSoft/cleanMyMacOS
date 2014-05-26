@@ -7,4 +7,4 @@ Usually it is a black box showing at the button of any website you visit form an
 Don’t try to remove a plugin or extension. This malware is not a browser add-in.
 
 run the script as root.
-# sudo ./cleanMyMac.sh
+## sudo ./cleanMyMac.sh
